@@ -29,8 +29,7 @@ Visualization:
 types, price trends across neighborhoods).
 ● Use charts to highlight relationships between variables.
 
-Sample Questions to Investigate ( You can obviously look at other questions and
-trends as you see fit)
+Sample Questions to Investigate 
 1. How does the distribution of room types vary across different neighborhoods?
 
 2. What is the relationship between the price of a listing and its popularity (number
